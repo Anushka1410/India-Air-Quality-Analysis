@@ -54,3 +54,9 @@ India_Air_Quality_Analysis/
 
 ## Conclusion
 This project demonstrates practical skills in Python-based data analysis, data cleaning, exploratory data analysis and data visualisation using a real-world public dataset.
+
+## View Project Notebook
+
+Explore the complete analysis, including data preprocessing, exploratory data analysis, charts, heatmaps, and key findings.
+
+[View India Air Quality Analysis Notebook](notebooks/India_Air_Quality_Analysis.ipynb)
