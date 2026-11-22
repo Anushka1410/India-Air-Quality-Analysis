@@ -1,0 +1,155 @@
+Sl. No.,State/UT,City,Year,Month,Day of Month on which Highest AQI Observed,Maximum AQI value,AQI Category
+1.i,Bihar,Patna,2022,Oct,29.0,276.0,Poor
+1.ii,Bihar,Patna,2022,Nov,30.0,395.0,Very Poor
+1.iii,Bihar,Patna,2022,Dec,30.0,424.0,Severe
+1.iv,Bihar,Patna,2023,Jan,1.0,414.0,Severe
+1.v,Bihar,Patna,2023,Oct,31.0,232.0,Poor
+1.vi,Bihar,Patna,2023,Nov,11.0,375.0,Very Poor
+1.vii,Bihar,Patna,2023,Dec,1.0,356.0,Very Poor
+1.viii,Bihar,Patna,2024,Jan,3.0,366.0,Very Poor
+1.ix,Bihar,Patna,2024,Oct,17.0,235.0,Poor
+1.x,Bihar,Patna,2024,Nov,12.0,340.0,Very Poor
+1.xi,Bihar,Patna,2024,Dec,16.0,298.0,Poor
+1.xii,Bihar,Patna,2025,Jan,6.0,316.0,Very Poor
+1.xiii,Bihar,Patna,2025,Oct,21.0,226.0,Poor
+1.xiv,Bihar,Patna,2025,Nov,5.0,202.0,Poor
+1.xv,Bihar,Patna,2025,Dec,13.0,226.0,Poor
+1.xvi,Bihar,Patna,2026,Jan,17.0,236.0,Poor
+2.i,Delhi,Delhi,2022,Oct,29.0,397.0,Very Poor
+2.ii,Delhi,Delhi,2022,Nov,3.0,450.0,Severe
+2.iii,Delhi,Delhi,2022,Dec,19.0,410.0,Severe
+2.iv,Delhi,Delhi,2023,Jan,9.0,434.0,Severe
+2.v,Delhi,Delhi,2023,Oct,31.0,357.0,Very Poor
+2.vi,Delhi,Delhi,2023,Nov,3.0,468.0,Severe
+2.vii,Delhi,Delhi,2023,Dec,23.0,449.0,Severe
+2.viii,Delhi,Delhi,2024,Jan,14.0,447.0,Severe
+2.ix,Delhi,Delhi,2024,Oct,23.0,364.0,Very Poor
+2.x,Delhi,Delhi,2024,Nov,18.0,494.0,Severe
+2.xi,Delhi,Delhi,2024,Dec,19.0,451.0,Severe
+2.xii,Delhi,Delhi,2025,Jan,10.0,397.0,Very Poor
+2.xiii,Delhi,Delhi,2025,Oct,30.0,373.0,Very Poor
+2.xiv,Delhi,Delhi,2025,Nov,11.0,428.0,Severe
+2.xv,Delhi,Delhi,2025,Dec,14.0,461.0,Severe
+2.xvi,Delhi,Delhi,2026,Jan,18.0,440.0,Severe
+3.i,Haryana,Faridabad,2022,Oct,29.0,400.0,Very Poor
+3.ii,Haryana,Faridabad,2022,Nov,4.0,425.0,Severe
+3.iii,Haryana,Faridabad,2022,Dec,19.0,388.0,Very Poor
+3.iv,Haryana,Faridabad,2023,Jan,9.0,434.0,Severe
+3.v,Haryana,Faridabad,2023,Oct,22.0,322.0,Very Poor
+3.vi,Haryana,Faridabad,2023,Nov,3.0,460.0,Severe
+3.vii,Haryana,Faridabad,2023,Dec,23.0,367.0,Very Poor
+3.viii,Haryana,Faridabad,2024,Jan,14.0,398.0,Very Poor
+3.ix,Haryana,Faridabad,2024,Oct,31.0,251.0,Poor
+3.x,Haryana,Faridabad,2024,Nov,18.0,367.0,Very Poor
+3.xi,Haryana,Faridabad,2024,Dec,19.0,279.0,Poor
+3.xii,Haryana,Faridabad,2025,Jan,4.0,284.0,Poor
+3.xiii,Haryana,Faridabad,2025,Oct,21.0,268.0,Poor
+3.xiv,Haryana,Faridabad,2025,Nov,11.0,298.0,Poor
+3.xv,Haryana,Faridabad,2025,Dec,28.0,255.0,Poor
+3.xvi,Haryana,Faridabad,2026,Jan,20.0,262.0,Poor
+4.i,Uttar Pradesh,Ghaziabad,2022,Oct,28.0,384.0,Very Poor
+4.ii,Uttar Pradesh,Ghaziabad,2022,Nov,3.0,416.0,Severe
+4.iii,Uttar Pradesh,Ghaziabad,2022,Dec,19.0,373.0,Very Poor
+4.iv,Uttar Pradesh,Ghaziabad,2023,Jan,6.0,406.0,Severe
+4.v,Uttar Pradesh,Ghaziabad,2023,Oct,28.0,291.0,Poor
+4.vi,Uttar Pradesh,Ghaziabad,2023,Nov,3.0,410.0,Severe
+4.vii,Uttar Pradesh,Ghaziabad,2023,Dec,23.0,388.0,Very Poor
+4.viii,Uttar Pradesh,Ghaziabad,2024,Jan,14.0,392.0,Very Poor
+4.ix,Uttar Pradesh,Ghaziabad,2024,Oct,27.0,324.0,Very Poor
+4.x,Uttar Pradesh,Ghaziabad,2024,Nov,18.0,438.0,Severe
+4.xi,Uttar Pradesh,Ghaziabad,2024,Dec,17.0,403.0,Severe
+4.xii,Uttar Pradesh,Ghaziabad,2025,Jan,9.0,332.0,Very Poor
+4.xiii,Uttar Pradesh,Ghaziabad,2025,Oct,30.0,364.0,Very Poor
+4.xiv,Uttar Pradesh,Ghaziabad,2025,Nov,23.0,437.0,Severe
+4.xv,Uttar Pradesh,Ghaziabad,2025,Dec,14.0,459.0,Severe
+4.xvi,Uttar Pradesh,Ghaziabad,2026,Jan,18.0,458.0,Severe
+5.i,Uttar Pradesh,Noida,2022,Oct,29.0,381.0,Very Poor
+5.ii,Uttar Pradesh,Noida,2022,Nov,3.0,423.0,Severe
+5.iii,Uttar Pradesh,Noida,2022,Dec,19.0,377.0,Very Poor
+5.iv,Uttar Pradesh,Noida,2023,Jan,9.0,434.0,Severe
+5.v,Uttar Pradesh,Noida,2023,Oct,31.0,329.0,Very Poor
+5.vi,Uttar Pradesh,Noida,2023,Nov,3.0,440.0,Severe
+5.vii,Uttar Pradesh,Noida,2023,Dec,23.0,390.0,Very Poor
+5.viii,Uttar Pradesh,Noida,2024,Jan,14.0,456.0,Severe
+5.ix,Uttar Pradesh,Noida,2024,Oct,27.0,304.0,Very Poor
+5.x,Uttar Pradesh,Noida,2024,Nov,18.0,423.0,Severe
+5.xi,Uttar Pradesh,Noida,2024,Dec,17.0,390.0,Very Poor
+5.xii,Uttar Pradesh,Noida,2025,Jan,4.0,365.0,Very Poor
+5.xiii,Uttar Pradesh,Noida,2025,Oct,30.0,372.0,Very Poor
+5.xiv,Uttar Pradesh,Noida,2025,Nov,11.0,425.0,Severe
+5.xv,Uttar Pradesh,Noida,2025,Dec,14.0,466.0,Severe
+5.xvi,Uttar Pradesh,Noida,2026,Jan,18.0,430.0,Severe
+6.i,Uttar Pradesh,Greater Noida,2022,Oct,29.0,385.0,Very Poor
+6.ii,Uttar Pradesh,Greater Noida,2022,Nov,4.0,425.0,Severe
+6.iii,Uttar Pradesh,Greater Noida,2022,Dec,19.0,442.0,Severe
+6.iv,Uttar Pradesh,Greater Noida,2023,Jan,6.0,434.0,Severe
+6.v,Uttar Pradesh,Greater Noida,2023,Oct,31.0,375.0,Very Poor
+6.vi,Uttar Pradesh,Greater Noida,2023,Nov,3.0,494.0,Severe
+6.vii,Uttar Pradesh,Greater Noida,2023,Dec,22.0,386.0,Very Poor
+6.viii,Uttar Pradesh,Greater Noida,2024,Jan,14.0,421.0,Severe
+6.ix,Uttar Pradesh,Greater Noida,2024,Oct,27.0,312.0,Very Poor
+6.x,Uttar Pradesh,Greater Noida,2024,Nov,18.0,372.0,Very Poor
+6.xi,Uttar Pradesh,Greater Noida,2024,Dec,17.0,380.0,Very Poor
+6.xii,Uttar Pradesh,Greater Noida,2025,Jan,3.0,334.0,Very Poor
+6.xiii,Uttar Pradesh,Greater Noida,2025,Oct,30.0,330.0,Very Poor
+6.xiv,Uttar Pradesh,Greater Noida,2025,Nov,18.0,454.0,Severe
+6.xv,Uttar Pradesh,Greater Noida,2025,Dec,15.0,447.0,Severe
+6.xvi,Uttar Pradesh,Greater Noida,2026,Jan,18.0,402.0,Severe
+7.v,Rajasthan,Sri Ganganagar,2023,Oct,30.0,368.0,Very Poor
+7.vi,Rajasthan,Sri Ganganagar,2023,Nov,19.0,441.0,Severe
+7.vii,Rajasthan,Sri Ganganagar,2023,Dec,26.0,403.0,Severe
+7.viii,Rajasthan,Sri Ganganagar,2024,Jan,29.0,396.0,Very Poor
+7.ix,Rajasthan,Sri Ganganagar,2024,Oct,22.0,304.0,Very Poor
+7.x,Rajasthan,Sri Ganganagar,2024,Nov,4.0,417.0,Severe
+7.xi,Rajasthan,Sri Ganganagar,2024,Dec,18.0,323.0,Very Poor
+7.xii,Rajasthan,Sri Ganganagar,2025,Jan,31.0,264.0,Poor
+7.xiii,Rajasthan,Sri Ganganagar,2025,Oct,22.0,300.0,Poor
+7.xiv,Rajasthan,Sri Ganganagar,2025,Nov,21.0,300.0,Poor
+7.xv,Rajasthan,Sri Ganganagar,2025,Dec,22.0,316.0,Very Poor
+7.xvi,Rajasthan,Sri Ganganagar,2026,Jan,13.0,324.0,Very Poor
+8.i,Uttar Pradesh,Muzaffarnagar,2022,Oct,26.0,335.0,Very Poor
+8.ii,Uttar Pradesh,Muzaffarnagar,2022,Nov,9.0,365.0,Very Poor
+8.iii,Uttar Pradesh,Muzaffarnagar,2022,Dec,17.0,399.0,Very Poor
+8.iv,Uttar Pradesh,Muzaffarnagar,2023,Jan,2.0,367.0,Very Poor
+8.v,Uttar Pradesh,Muzaffarnagar,2023,Oct,31.0,327.0,Very Poor
+8.vi,Uttar Pradesh,Muzaffarnagar,2023,Nov,6.0,340.0,Very Poor
+8.vii,Uttar Pradesh,Muzaffarnagar,2023,Dec,21.0,394.0,Very Poor
+8.viii,Uttar Pradesh,Muzaffarnagar,2024,Jan,31.0,360.0,Very Poor
+8.ix,Uttar Pradesh,Muzaffarnagar,2024,Oct,17.0,327.0,Very Poor
+8.x,Uttar Pradesh,Muzaffarnagar,2024,Nov,16.0,383.0,Very Poor
+8.xi,Uttar Pradesh,Muzaffarnagar,2024,Dec,23.0,255.0,Poor
+8.xii,Uttar Pradesh,Muzaffarnagar,2025,Jan,3.0,251.0,Poor
+8.xiii,Uttar Pradesh,Muzaffarnagar,2025,Oct,27.0,313.0,Very Poor
+8.xiv,Uttar Pradesh,Muzaffarnagar,2025,Nov,23.0,382.0,Very Poor
+8.xv,Uttar Pradesh,Muzaffarnagar,2025,Dec,12.0,400.0,Very Poor
+8.xvi,Uttar Pradesh,Muzaffarnagar,2026,Jan,18.0,322.0,Very Poor
+9.iii,Assam,Byrnihat,2022,Dec,24.0,413.0,Severe
+9.iv,Assam,Byrnihat,2023,Jan,15.0,442.0,Severe
+9.v,Assam,Byrnihat,2023,Oct,25.0,302.0,Very Poor
+9.vi,Assam,Byrnihat,2023,Nov,27.0,365.0,Very Poor
+9.vii,Assam,Byrnihat,2023,Dec,5.0,379.0,Very Poor
+9.viii,Assam,Byrnihat,2024,Jan,31.0,366.0,Very Poor
+9.ix,Assam,Byrnihat,2024,Oct,18.0,279.0,Poor
+9.x,Assam,Byrnihat,2024,Nov,15.0,302.0,Very Poor
+9.xi,Assam,Byrnihat,2024,Dec,22.0,383.0,Very Poor
+9.xii,Assam,Byrnihat,2025,Jan,11.0,422.0,Severe
+9.xiii,Assam,Byrnihat,2025,Oct,7.0,122.0,Moderate
+9.xiv,Assam,Byrnihat,2025,Nov,11.0,136.0,Moderate
+9.xv,Assam,Byrnihat,2025,Dec,7.0,222.0,Poor
+9.xvi,Assam,Byrnihat,2026,Jan,22.0,181.0,Moderate
+10.i,Haryana,Gurugram,2022,Oct,31.0,376.0,Very Poor
+10.ii,Haryana,Gurugram,2022,Nov,3.0,430.0,Severe
+10.iii,Haryana,Gurugram,2022,Dec,19.0,383.0,Very Poor
+10.iv,Haryana,Gurugram,2023,Jan,9.0,397.0,Very Poor
+10.v,Haryana,Gurugram,2023,Oct,22.0,255.0,Poor
+10.vi,Haryana,Gurugram,2023,Nov,4.0,404.0,Severe
+10.vii,Haryana,Gurugram,2023,Dec,23.0,350.0,Very Poor
+10.viii,Haryana,Gurugram,2024,Jan,14.0,364.0,Very Poor
+10.ix,Haryana,Gurugram,2024,Oct,31.0,296.0,Poor
+10.x,Haryana,Gurugram,2024,Nov,18.0,469.0,Severe
+10.xi,Haryana,Gurugram,2024,Dec,18.0,400.0,Very Poor
+10.xii,Haryana,Gurugram,2025,Jan,29.0,318.0,Very Poor
+10.xiii,Haryana,Gurugram,2025,Oct,21.0,370.0,Very Poor
+10.xiv,Haryana,Gurugram,2025,Nov,11.0,378.0,Very Poor
+10.xv,Haryana,Gurugram,2025,Dec,23.0,364.0,Very Poor
+10.xvi,Haryana,Gurugram,2026,Jan,20.0,394.0,Very Poor
